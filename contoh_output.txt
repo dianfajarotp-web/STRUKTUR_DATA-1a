@@ -1,0 +1,203 @@
+
+=== SISTEM AKADEMIK: IMPLEMENTASI STRUKTUR DATA ===
+1. Tambah mahasiswa (List + Dictionary)
+2. Tampilkan daftar berurutan (List)
+3. Ubah data mahasiswa
+4. Hapus data mahasiswa
+5. Undo perubahan terakhir (Stack)
+6. Tambahkan mahasiswa ke antrean (Queue)
+7. Proses antrean paling depan (Queue)
+8. Lihat antrean
+9. Cari mahasiswa berdasarkan NIM (Dictionary)
+0. Keluar
+Pilih menu: NIM: Nama: Program studi: Data berhasil ditambahkan:
+NIM: 001 | Nama: Fajar | Prodi: Informatika
+
+=== SISTEM AKADEMIK: IMPLEMENTASI STRUKTUR DATA ===
+1. Tambah mahasiswa (List + Dictionary)
+2. Tampilkan daftar berurutan (List)
+3. Ubah data mahasiswa
+4. Hapus data mahasiswa
+5. Undo perubahan terakhir (Stack)
+6. Tambahkan mahasiswa ke antrean (Queue)
+7. Proses antrean paling depan (Queue)
+8. Lihat antrean
+9. Cari mahasiswa berdasarkan NIM (Dictionary)
+0. Keluar
+Pilih menu: NIM: Nama: Program studi: Data berhasil ditambahkan:
+NIM: 002 | Nama: Ayu | Prodi: Informatika
+
+=== SISTEM AKADEMIK: IMPLEMENTASI STRUKTUR DATA ===
+1. Tambah mahasiswa (List + Dictionary)
+2. Tampilkan daftar berurutan (List)
+3. Ubah data mahasiswa
+4. Hapus data mahasiswa
+5. Undo perubahan terakhir (Stack)
+6. Tambahkan mahasiswa ke antrean (Queue)
+7. Proses antrean paling depan (Queue)
+8. Lihat antrean
+9. Cari mahasiswa berdasarkan NIM (Dictionary)
+0. Keluar
+Pilih menu: 1. NIM: 001 | Nama: Fajar | Prodi: Informatika
+2. NIM: 002 | Nama: Ayu | Prodi: Informatika
+
+=== SISTEM AKADEMIK: IMPLEMENTASI STRUKTUR DATA ===
+1. Tambah mahasiswa (List + Dictionary)
+2. Tampilkan daftar berurutan (List)
+3. Ubah data mahasiswa
+4. Hapus data mahasiswa
+5. Undo perubahan terakhir (Stack)
+6. Tambahkan mahasiswa ke antrean (Queue)
+7. Proses antrean paling depan (Queue)
+8. Lihat antrean
+9. Cari mahasiswa berdasarkan NIM (Dictionary)
+0. Keluar
+Pilih menu: Masukkan NIM: Data ditemukan:
+NIM: 002 | Nama: Ayu | Prodi: Informatika
+
+=== SISTEM AKADEMIK: IMPLEMENTASI STRUKTUR DATA ===
+1. Tambah mahasiswa (List + Dictionary)
+2. Tampilkan daftar berurutan (List)
+3. Ubah data mahasiswa
+4. Hapus data mahasiswa
+5. Undo perubahan terakhir (Stack)
+6. Tambahkan mahasiswa ke antrean (Queue)
+7. Proses antrean paling depan (Queue)
+8. Lihat antrean
+9. Cari mahasiswa berdasarkan NIM (Dictionary)
+0. Keluar
+Pilih menu: NIM yang akan diubah: Nama baru: Program studi baru: Data berhasil diperbarui:
+NIM: 001 | Nama: Fajar Baru | Prodi: Teknik Informatika
+
+=== SISTEM AKADEMIK: IMPLEMENTASI STRUKTUR DATA ===
+1. Tambah mahasiswa (List + Dictionary)
+2. Tampilkan daftar berurutan (List)
+3. Ubah data mahasiswa
+4. Hapus data mahasiswa
+5. Undo perubahan terakhir (Stack)
+6. Tambahkan mahasiswa ke antrean (Queue)
+7. Proses antrean paling depan (Queue)
+8. Lihat antrean
+9. Cari mahasiswa berdasarkan NIM (Dictionary)
+0. Keluar
+Pilih menu: Undo berhasil: perubahan mahasiswa 001 dikembalikan.
+
+=== SISTEM AKADEMIK: IMPLEMENTASI STRUKTUR DATA ===
+1. Tambah mahasiswa (List + Dictionary)
+2. Tampilkan daftar berurutan (List)
+3. Ubah data mahasiswa
+4. Hapus data mahasiswa
+5. Undo perubahan terakhir (Stack)
+6. Tambahkan mahasiswa ke antrean (Queue)
+7. Proses antrean paling depan (Queue)
+8. Lihat antrean
+9. Cari mahasiswa berdasarkan NIM (Dictionary)
+0. Keluar
+Pilih menu: NIM yang akan diantrekan: Berhasil masuk antrean. Jumlah permintaan: 1.
+
+=== SISTEM AKADEMIK: IMPLEMENTASI STRUKTUR DATA ===
+1. Tambah mahasiswa (List + Dictionary)
+2. Tampilkan daftar berurutan (List)
+3. Ubah data mahasiswa
+4. Hapus data mahasiswa
+5. Undo perubahan terakhir (Stack)
+6. Tambahkan mahasiswa ke antrean (Queue)
+7. Proses antrean paling depan (Queue)
+8. Lihat antrean
+9. Cari mahasiswa berdasarkan NIM (Dictionary)
+0. Keluar
+Pilih menu: NIM yang akan diantrekan: Berhasil masuk antrean. Jumlah permintaan: 2.
+
+=== SISTEM AKADEMIK: IMPLEMENTASI STRUKTUR DATA ===
+1. Tambah mahasiswa (List + Dictionary)
+2. Tampilkan daftar berurutan (List)
+3. Ubah data mahasiswa
+4. Hapus data mahasiswa
+5. Undo perubahan terakhir (Stack)
+6. Tambahkan mahasiswa ke antrean (Queue)
+7. Proses antrean paling depan (Queue)
+8. Lihat antrean
+9. Cari mahasiswa berdasarkan NIM (Dictionary)
+0. Keluar
+Pilih menu: Antrean (depan -> belakang): ['002', '001']
+
+=== SISTEM AKADEMIK: IMPLEMENTASI STRUKTUR DATA ===
+1. Tambah mahasiswa (List + Dictionary)
+2. Tampilkan daftar berurutan (List)
+3. Ubah data mahasiswa
+4. Hapus data mahasiswa
+5. Undo perubahan terakhir (Stack)
+6. Tambahkan mahasiswa ke antrean (Queue)
+7. Proses antrean paling depan (Queue)
+8. Lihat antrean
+9. Cari mahasiswa berdasarkan NIM (Dictionary)
+0. Keluar
+Pilih menu: Permintaan pertama berhasil diproses:
+NIM: 002 | Nama: Ayu | Prodi: Informatika
+
+=== SISTEM AKADEMIK: IMPLEMENTASI STRUKTUR DATA ===
+1. Tambah mahasiswa (List + Dictionary)
+2. Tampilkan daftar berurutan (List)
+3. Ubah data mahasiswa
+4. Hapus data mahasiswa
+5. Undo perubahan terakhir (Stack)
+6. Tambahkan mahasiswa ke antrean (Queue)
+7. Proses antrean paling depan (Queue)
+8. Lihat antrean
+9. Cari mahasiswa berdasarkan NIM (Dictionary)
+0. Keluar
+Pilih menu: Permintaan pertama berhasil diproses:
+NIM: 001 | Nama: Fajar | Prodi: Informatika
+
+=== SISTEM AKADEMIK: IMPLEMENTASI STRUKTUR DATA ===
+1. Tambah mahasiswa (List + Dictionary)
+2. Tampilkan daftar berurutan (List)
+3. Ubah data mahasiswa
+4. Hapus data mahasiswa
+5. Undo perubahan terakhir (Stack)
+6. Tambahkan mahasiswa ke antrean (Queue)
+7. Proses antrean paling depan (Queue)
+8. Lihat antrean
+9. Cari mahasiswa berdasarkan NIM (Dictionary)
+0. Keluar
+Pilih menu: NIM yang akan dihapus: Mahasiswa 002 berhasil dihapus.
+
+=== SISTEM AKADEMIK: IMPLEMENTASI STRUKTUR DATA ===
+1. Tambah mahasiswa (List + Dictionary)
+2. Tampilkan daftar berurutan (List)
+3. Ubah data mahasiswa
+4. Hapus data mahasiswa
+5. Undo perubahan terakhir (Stack)
+6. Tambahkan mahasiswa ke antrean (Queue)
+7. Proses antrean paling depan (Queue)
+8. Lihat antrean
+9. Cari mahasiswa berdasarkan NIM (Dictionary)
+0. Keluar
+Pilih menu: Undo berhasil: mahasiswa 002 dipulihkan.
+
+=== SISTEM AKADEMIK: IMPLEMENTASI STRUKTUR DATA ===
+1. Tambah mahasiswa (List + Dictionary)
+2. Tampilkan daftar berurutan (List)
+3. Ubah data mahasiswa
+4. Hapus data mahasiswa
+5. Undo perubahan terakhir (Stack)
+6. Tambahkan mahasiswa ke antrean (Queue)
+7. Proses antrean paling depan (Queue)
+8. Lihat antrean
+9. Cari mahasiswa berdasarkan NIM (Dictionary)
+0. Keluar
+Pilih menu: 1. NIM: 001 | Nama: Fajar | Prodi: Informatika
+2. NIM: 002 | Nama: Ayu | Prodi: Informatika
+
+=== SISTEM AKADEMIK: IMPLEMENTASI STRUKTUR DATA ===
+1. Tambah mahasiswa (List + Dictionary)
+2. Tampilkan daftar berurutan (List)
+3. Ubah data mahasiswa
+4. Hapus data mahasiswa
+5. Undo perubahan terakhir (Stack)
+6. Tambahkan mahasiswa ke antrean (Queue)
+7. Proses antrean paling depan (Queue)
+8. Lihat antrean
+9. Cari mahasiswa berdasarkan NIM (Dictionary)
+0. Keluar
+Pilih menu: Program selesai. Data dalam memori tidak disimpan ke file.
